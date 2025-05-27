@@ -13,23 +13,6 @@ Um aplicativo de **Kanban** construído com **React**, **TypeScript** e **Vite**
 - 🗄️ JSON Server (mock API)
 
 
-
-Estrutura do Projeto
-📦 kanban-app
-├── public
-├── src
-│   ├── components       # Componentes reutilizáveis
-│   ├── context          # Contexto global (TasksContext)
-│   ├── entities         # Tipagens (ex: Task.ts)
-│   ├── pages            # Telas principais
-│   ├── services         # Serviços de API (ex: tasksService)
-│   ├── App.tsx
-│   └── main.tsx
-├── db.json              # Base de dados do JSON Server
-├── .env
-└── vite.config.ts
-
-
 ✅ Funcionalidades
 
 Criar novas tarefas
